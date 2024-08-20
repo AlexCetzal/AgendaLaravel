@@ -1,0 +1,12 @@
+--- Proyecto TI ---
+Agenda:
+
+Migrar Los siguientes sitios en uno solo:
+1.- Actividades Escuela Modelo.
+2.- Actividades Centro Cultural (Espacios Universidad Modelo)
+3.- Campos de la Universidad
+4.- Transporte Escolar
+
+Tecnologías a usar:
+ 1.- Laravel
+ 2.- CodeIgniter
