@@ -1,8 +1,7 @@
 @extends('layouts.landing')
 
-@section('title', 'campos_Modelo')
+@section('title', 'centro_cultural')
 
 @section('content')
-
 
 @endsection

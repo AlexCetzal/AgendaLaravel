@@ -1,4 +1,8 @@
 <div class="swiper">
+    <div class="fixed-text">
+        <h1>Campus Merida</h1>
+        <p>Formando profesionistas con valores humanos</p>
+    </div>
     <!-- Additional required wrapper -->
     <div class="swiper-wrapper">
     <!-- Slides -->
