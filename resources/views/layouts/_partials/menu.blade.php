@@ -21,4 +21,5 @@
         <li><a href="{{ route('index')}}">Cerrar sesion</a></li>
         <li><a href="{{ route('actividades_Modelo')}}">configuracion</a></li>
     </ul>
+    <hr>
 </div>
