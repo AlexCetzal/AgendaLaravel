@@ -57,6 +57,7 @@ nav ul li a:hover {
     height: 570px;
 }
 
+
 .menu_izquierda ul {
     list-style-type: none; 
     margin: 0;
@@ -87,6 +88,9 @@ nav ul li a:hover {
     border: 0;
     border-top: 1px solid #0e0d0d; /* Línea horizontal de 1px de grosor y color gris claro */
     margin: 20px auto; /* Centra el <hr> y proporciona espacio arriba y abajo */
+}
+.padre{
+    display: flex;
 }
 .swiper {
     max-width: 100%;

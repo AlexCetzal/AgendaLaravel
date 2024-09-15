@@ -12,7 +12,7 @@
     </title>
 </head>
 <body>
-    @include('layouts._partials.menu')
-    @yield('content')
+        @include('layouts._partials.menu')
+        {{-- @include('layouts._partials.calendario') --}}
 </body>
 </html>
